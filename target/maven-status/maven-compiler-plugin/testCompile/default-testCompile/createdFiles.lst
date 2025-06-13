@@ -1,0 +1,3 @@
+com\example\jsonplaceholderclone\config\TestSecurityConfig.class
+com\example\jsonplaceholderclone\controller\UserControllerTest.class
+com\example\jsonplaceholderclone\service\UserServiceTest.class
